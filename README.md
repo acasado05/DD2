@@ -1,2 +1,2 @@
 # DD2
-Repositorio creado
+Repositorio creado para subir los archivos y prácticas de la asignatura de Diseño Digital II, la cual introduce las FPGAs como soporte tecnológico, presenta las metodologías que permiten abordar la realización de sistemas digitales complejos (el diseño jerárquico y las técnicas de diseño síncrono) e incluye nociones avanzadas de entornos de CAD (introduciendo el uso de sintetizadores lógicos independientes en el ciclo de diseño).
